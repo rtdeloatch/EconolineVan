@@ -1,0 +1,2 @@
+- Get player stats from Football Outsiders
+- Get historical ADP from myfantasyleague.com

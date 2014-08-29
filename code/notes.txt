@@ -1,0 +1,6 @@
+- Use Python 2.7
+
+TODO:
+- web crawler for data
+- AI for draft
+- simulator for season (rotisserie, subs, head-to-head, etc.)
